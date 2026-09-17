@@ -7,4 +7,4 @@ def find_cafes(city=config.DEFAULT_CITY):
     return filter_by_rating([])
 
 if __name__ == "__main__":
-    find_cafes()
+    find_cafes()# демонстрация rebase
