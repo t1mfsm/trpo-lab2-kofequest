@@ -1,0 +1,21 @@
+From 5f3444675badfee5d260e901fa032a10964b467e Mon Sep 17 00:00:00 2001
+From: Timur Shakirov <shakirov.timurshakirov@yandex.ru>
+Date: Thu, 17 Sep 2026 22:30:46 +0300
+Subject: [PATCH 2/2] Add DEBUG flag
+
+---
+ config.py | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/config.py b/config.py
+index 79e0291..ab07682 100644
+--- a/config.py
++++ b/config.py
+@@ -3,3 +3,4 @@
+ DEFAULT_CITY = "Москва"
+ MAX_RESULTS = 10# конфигурация для тестов
+ VERSION = '1.1'
++DEBUG = False
+-- 
+2.49.0.windows.1
+

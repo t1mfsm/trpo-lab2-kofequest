@@ -7,3 +7,5 @@
 - Рейтинг заведений## TODO
 - добавить карту кофеен
 # fix on master
+
+Hello, it's me
